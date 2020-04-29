@@ -14,3 +14,6 @@ usage: add a loadConfig node to your BP and enter the name of the configfile whi
 ![](https://github.com/ben-mkiv/UE4-SimpleConfig/blob/master/configFile-example.jpg)
 
 as seen in the screenshot you can save a reference to the configFile as variable, changes are cached in the object until saveConfig is called
+
+
+[![](https://i.imgur.com/BqhzLwu.png) made with JetBrains CLion](https://www.jetbrains.com/clion/)
